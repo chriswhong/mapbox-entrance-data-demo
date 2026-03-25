@@ -1,0 +1,30 @@
+# Vite / Node / React
+node_modules/
+dist/
+.env*
+.vite/
+*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+.idea/
+.vscode/
+coverage/
+*.log
+*.tgz
+.cache/
+output/
+# macOS
+.AppleDouble
+.LSOverride
+# VS Code
+.history/
+# Optional: OS junk
+Thumbs.db
+Desktop.ini
